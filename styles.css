@@ -44,27 +44,27 @@ h1 ,h2, h4{
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url('images/png-transparent-gift-card-graphy-holiday-gift-miscellaneous-ribbon-rectangle.png');
+    background-image: url('images/gift.png');
     background-size: cover;
     background-position: center;
     margin: 0 auto;
 }
 #gift1:hover{
-    background-image: url('images/200w.gif');
+    background-image: url('images/muah.gif');
 }
 #gift2:hover{
-    background-image: url('images/giphy.gif');
+    background-image: url('images/friends.gif');
 }
 #gift3:hover{
     background-image: url('images/pretty.gif');
 }
 #gift4:hover{
-    background-image: url('images/giphy (1).gif');
+    background-image: url('images/nobody.gif');
 }
 #gift5{
     height: 200px;
 }
 #gift5:hover{
-    background-image: url('images/giphy (2).gif');
+    background-image: url('images/leonardo.gif');
 }
 
